@@ -1,2 +1,2 @@
-This is code is created to get the xyz file from the optimized gaussian optput. Make sure you keep periodic_table.csv in the path.
+This is code is created to get the xyz file from the optimized gaussian optput. Make sure you keep Periodic_Table_of_Elements.csv in the path.
 
