@@ -5,7 +5,7 @@ def atomic_name(nb_list):
     """
     Return the atomic symbol as a list using a list of atomic number
     """
-    table_path = "/home/arajamani/bin/Periodic_Table_of_Elements.csv"
+    table_path = "PT.csv"
     df = pd.read_csv(table_path)
     atm_list = []
     for atom in range(len(nb_list)):
